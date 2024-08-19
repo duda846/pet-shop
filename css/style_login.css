@@ -1,0 +1,70 @@
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: #84ceff;
+}
+
+
+
+.login{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+    color: rgb(255, 255, 255);
+}
+
+
+.email input {
+    border-radius: 10px;
+    border: none;
+    width: 250px;
+    height: 40px;
+    padding-left: 15px;
+    margin-top: 12px;
+}
+
+.senha input{
+    border-radius: 10px;
+    border: none;
+    width: 250px;
+    height: 40px;
+    padding-left: 15px;
+    margin-top: 12px;
+}
+
+.entrar input{
+    cursor: pointer;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(131, 243, 131);
+}
+
+h1{
+    font-family: "Poppins", sans-serif;
+    color: rgb(241, 241, 241);
+}
+
+
+.caixa{
+    margin-top: 50px;
+}
+
+.caixa img{
+    width: 260px;
+    border-radius: 200px;
+
+
+}
+
+
+input:focus{
+      outline: none;
+}
+
+.entrar{
+    margin-top: 15px;
+}
